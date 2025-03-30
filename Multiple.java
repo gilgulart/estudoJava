@@ -13,5 +13,6 @@ public class Multiple {
         } else {
             System.out.print("Seu número " + allNumber + " não é um multiplo de 5");
         }
+        enter.close();
     }
 }

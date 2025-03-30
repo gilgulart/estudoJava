@@ -14,5 +14,6 @@ public class ReadNumber {
         } else {
             System.out.print("O número " + numberTwo + " é maior que o número " + numberOne );
         }
+        enter.close();
     }
 }
